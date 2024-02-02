@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lybia Coelho</h1>
 <h3 align="center">A passionate back-end developer from Portugal</h3>
-<img align="right" alt="coding" width="450" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.gif">
+<img align="right" alt="coding" width="300" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lybiacoelho&label=Profile%20views&color=0e75b6&style=flat" alt="lybiacoelho" /> </p>
